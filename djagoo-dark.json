@@ -1,0 +1,24 @@
+{
+    "name": "djagoo dark theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#ff8800",
+        "primary-color": "#336699",
+        "warning-color": "#ff8800",
+
+        "sidebar-color": "#10161d",
+        "roomlist-background-color": "#1d262f",
+        "roomlist-text-color": "#d2e0f0",
+        "roomlist-text-secondary-color": "#e5e9f0",
+        "roomlist-highlights-color": "#10161d",
+        "roomlist-separator-color": "#171e26",
+
+        "timeline-background-color": "#171e26",
+        "timeline-text-color": "#d2e0f0",
+        "secondary-content": "#d2e0f0",
+        "tertiary-content": "#d2e0f0",
+        "timeline-text-secondary-color": "#81a1c1",
+        "timeline-highlights-color": "#1d262f",
+        "reaction-row-button-selected-bg-color": "#ff8800"
+    }
+}
