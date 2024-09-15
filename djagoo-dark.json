@@ -3,8 +3,10 @@
     "is_dark": true,
     "colors": {
         "accent-color": "#ff8800",
+        "accent": "#ff8800",
         "primary-color": "#336699",
         "warning-color": "#ff8800",
+        "alert": "#ff8800",
 
         "sidebar-color": "#10161d",
         "roomlist-background-color": "#1d262f",
@@ -19,6 +21,12 @@
         "tertiary-content": "#d2e0f0",
         "timeline-text-secondary-color": "#81a1c1",
         "timeline-highlights-color": "#1d262f",
-        "reaction-row-button-selected-bg-color": "#ff8800"
+
+        "reaction-row-button-selected-bg-color": "#ff8800",
+        "menu-selected-color": "#ff8800",
+        "focus-bg-color": "#ff8800",
+        "room-highlight-color": "#ff8800",
+        "other-user-pill-bg-color": "#ff8800",
+        "togglesw-off-color": "#1d262f"
     }
 }
